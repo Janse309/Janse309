@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jan-Simon and I'm a Developer to be, from Bünde.</p>
+<p align="left">Hey, my name is Jan-Simon and I'm from Bünde. I'm currently taking a training course in software development at the Developer Academy.</p>
 
 ###
 
