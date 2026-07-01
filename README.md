@@ -30,7 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg alt="Claude"/>
+  <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg"
+  alt="Claude"
+  width="24"
+  height="24"
+/>
 </div>
 
 ###
